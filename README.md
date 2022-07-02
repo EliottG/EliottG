@@ -1,4 +1,4 @@
-# Hi there, I'm Eliott Geoffroy a frontend developper !
+# Hi there !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottG&show_icons=true)
 
