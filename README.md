@@ -1,6 +1,6 @@
 # Hi there, I'm Eliott Geoffroy a frontend developper !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottG&show_icons=true)
 
 ### Languages and Tools:
 
